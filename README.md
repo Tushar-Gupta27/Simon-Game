@@ -1,4 +1,4 @@
-# Simon-Game
+# [Simon-Game](https://tushar-gupta27.github.io/Simon-Game/)
 
 ### A memory game
 ### How to play
